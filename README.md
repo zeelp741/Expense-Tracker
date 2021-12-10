@@ -1,6 +1,6 @@
 # Expense Tracker
 
-![Expense Tracker]
+
 
 
 
