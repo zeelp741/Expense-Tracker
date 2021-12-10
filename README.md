@@ -1,6 +1,6 @@
 # Expense Tracker
 
-![Expense Tracker](https://ibb.co/9h89nXw)
+![Expense Tracker]
 
 
 
